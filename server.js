@@ -8,7 +8,7 @@ app.use=(express.json)
 
 const Port=(process.env.PORT)
 
-mongoose.Schema.({})
+
 
 
 
